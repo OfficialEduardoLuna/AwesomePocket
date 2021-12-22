@@ -1,27 +1,21 @@
-# PocketStudio
+# Awesome Pocket
 Links to Games for Analogue Pocket
 
 
 ##Intro
 Feel free to bookmark, this is going to be a place where I link to .pocket games. Assume these are tested unless specified otherwise.
 NO copyrighted material is posted without the express permission of the author or in the name of research (No nintendo R0Ms are posted, only patches that are applied with Rom Patcher Js. Patchnotes will be posted in a comment thread and this post will be edited.
+## Contents
+
+- [Native .pocket Games](#Native .pocket Games)
+- [Boilerplates](#boilerplates)
+- [Tools](#tools)
+- [Tools](#tools)
 
 
 
 
-
-Tools:
-
-
- - https://www.marcrobledo.com/RomPatcher.js/
- - Ghidra
- - Emulicious
- - GBStudio/GBDK
- - RGBDS
-
-
-
-#Native .pocket Games
+## Native .pocket Games
 https://itch.io/games/tag-analogue-pocket
 https://itch.io/games/tag-analoguepocket
 
@@ -34,11 +28,12 @@ https://bbbbbr.itch.io/petris
 
 
 
-#GBStudioProject (Update to GBS3 and export to .pocket)
+## GBStudioProjects
+ (Update to GBS3 and export to .pocket)
 
-https://monicapo.itch.io/gbstudio-resident-evil
-https://petermilko.itch.io/gurbs-adventure
-https://spidermonkeee.itch.io/dino-game-gb-studio
+ - https://monicapo.itch.io/gbstudio-resident-evil
+ - https://petermilko.itch.io/gurbs-adventure
+ - https://spidermonkeee.itch.io/dino-game-gb-studio
 
 
 
@@ -54,6 +49,17 @@ Homebrew (not made with GBStudio)
 https://www.reddit.com/r/ghidra/comments/rjnc7o/ghidra_editing_gameboy_rom_for_analogue_pocket/hpb85lu/
 https://www.reddit.com/r/AnalogueInc/comments/rki1h1/pok%C3%A9mon_crystal_patch_for_analogue_pocket_as_a/hpc4gpk/
 https://www.reddit.com/r/AnaloguePocket/comments/rima3y/how_to_load_deadeus_onto_gb_studio/hp3atcs/ ^not ^working
+
+
+## Tools
+
+
+ - https://www.marcrobledo.com/RomPatcher.js/
+ - Ghidra
+ - Emulicious
+ - GBStudio/GBDK
+ - RGBDS
+
 
 
 Some sources/Reference:
