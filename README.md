@@ -1,5 +1,6 @@
 # Awesome Pocket
-Links to Games for Analogue Pocket
+Links to Games for Analogue Pocket.
+Adapted from reddit with permission.
 
 
 ##Intro
