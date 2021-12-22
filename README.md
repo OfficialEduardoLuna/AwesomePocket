@@ -7,8 +7,8 @@ Feel free to bookmark, this is going to be a place where I link to .pocket games
 NO copyrighted material is posted without the express permission of the author or in the name of research (No nintendo R0Ms are posted, only patches that are applied with Rom Patcher Js. Patchnotes will be posted in a comment thread and this post will be edited.
 ## Contents
 
-- [Native .pocket Games](#Native .pocket Games)
-- [Boilerplates](#boilerplates)
+- [Native .Pocket Games](#native-pocket-games)
+- [GBStudio Projects](#gbstudio-projects)
 - [Tools](#tools)
 - [Tools](#tools)
 
@@ -16,19 +16,22 @@ NO copyrighted material is posted without the express permission of the author o
 
 
 ## Native .pocket Games
-https://itch.io/games/tag-analogue-pocket
-https://itch.io/games/tag-analoguepocket
+ - https://itch.io/games/tag-analogue-pocket
+ - https://itch.io/games/tag-analoguepocket
+ - https://spicyfuse.itch.io/tinkercore
+ - https://bbbbbr.itch.io/petris
+ - 
+ - 
+ - https://gumpyfunction.itch.io/virtual-bmo
+ - https://soully.itch.io/dogs-muck-island
+ - https://geonjaha.itch.io/periodic-table-gb
+ - https://spicyfuse.itch.io/god-destroyer
+ - https://adrianjg.itch.io/el-dueloroso
+ - https://deved.itch.io/rebound
+ - https://crussader.itch.io/parappa-the-rappers-funny-adventure
 
-https://spicyfuse.itch.io/tinkercore
-https://bbbbbr.itch.io/petris
 
-
-
-
-
-
-
-## GBStudioProjects
+## GBStudio Projects
  (Update to GBS3 and export to .pocket)
 
  - https://monicapo.itch.io/gbstudio-resident-evil
@@ -46,6 +49,11 @@ Homebrew (not made with GBStudio)
 
 
 #ROMHacks- Unofficial, some commercial, some gbstu, some homebrew.
+ - [Tetris](https://twitter.com/bestpig/status/1472967996368953344)
+ - [Pokemon Crystal](https://twitter.com/zhuowei/status/1473025917282836480)
+ - [Gold, Silver, CristalFR, ArgentFR](https://twitter.com/bestpig/status/1473422565213417485)
+ - [Link's Awakening DX](https://twitter.com/bestpig/status/1473041265344266241)
+
 https://www.reddit.com/r/ghidra/comments/rjnc7o/ghidra_editing_gameboy_rom_for_analogue_pocket/hpb85lu/
 https://www.reddit.com/r/AnalogueInc/comments/rki1h1/pok%C3%A9mon_crystal_patch_for_analogue_pocket_as_a/hpc4gpk/
 https://www.reddit.com/r/AnaloguePocket/comments/rima3y/how_to_load_deadeus_onto_gb_studio/hp3atcs/ ^not ^working
